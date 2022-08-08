@@ -6,5 +6,5 @@ function solution(x,n){
         }
 return arr;
 }
-
- 
+x=2, n=3
+console.log(solution(x,n))
