@@ -23,4 +23,5 @@ function solution(absolutes, signs) {
 
 let absolutes = [4,7,12];
 let signs = [true,false,true];
+
 console.log(solution(absolutes, signs));
